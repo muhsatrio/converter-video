@@ -1,3 +1,4 @@
+FROM jrottenberg/ffmpeg
 FROM python:3.7
 ENV APP /app
 RUN mkdir $APP
