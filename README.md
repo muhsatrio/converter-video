@@ -1,4 +1,4 @@
-## How to Run - Not By Docker
+## How to Run
 
 ### Pre-step
 
